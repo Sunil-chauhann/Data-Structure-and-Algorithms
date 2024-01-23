@@ -1,4 +1,4 @@
-//to find maximum subarray using kadane's algorithm
+//to find maximum subarray using kadane's algorithm T.C. = O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
